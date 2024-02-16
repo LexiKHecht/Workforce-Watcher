@@ -5,7 +5,7 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white)
  
  ## Description
-Workforce Watcher is a MySQL based company Content Managment System (CMS) CLI application. The app utilizes Inquirer to prompt users with questions to manipulate the database straight from a terminal. Buisness owners can use this CMS to view employees, departments, worker roles, aswell as add and update new information to each.
+Workforce Watcher is a MySQL based company Content Management System (CMS) CLI application. The app utilizes Inquirer to prompt users with questions to manipulate the database straight from a terminal. Business owners can use this CMS to view employees, departments, worker-roles, as well as update and add new information to each.
     
   ## Table of Contents
   * [Installation](#installation)
